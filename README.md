@@ -1,1 +1,1 @@
-# mini-rag
+# Mini-RAG Project
